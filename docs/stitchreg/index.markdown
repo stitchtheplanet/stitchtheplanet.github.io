@@ -1,5 +1,6 @@
 ---
 layout: default
+title: StitchReg - Stitch Regulator for Juki TL Machines
 ---
 <h1>Juki TL Stitch Regulator</h1>
 
