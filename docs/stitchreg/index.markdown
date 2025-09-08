@@ -58,4 +58,4 @@ The parts below are in the linked arduino kit, but I'll find better options.
 
 ### Schematic
 
-![Schematic](https://github.com/user-attachments/assets/296f13f5-c883-4133-b986-caafcdf1954d)
+![Schematic](./schematic.png)
