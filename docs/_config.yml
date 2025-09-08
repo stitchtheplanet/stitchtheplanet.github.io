@@ -27,7 +27,7 @@ url: "https://stitchtheplanet.com" # the base hostname & protocol for your site,
 github_username: stitchtheplanet.com
 
 # Build settings
-# theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
