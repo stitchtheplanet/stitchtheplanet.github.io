@@ -12,7 +12,9 @@ This is a stitch regulator that can be used with Juki TL machines. Commercial ve
   - [What You Need](#bom)
   - [Schematics](#schematic)
   - [Instructions](#instructions)
+- [Code](https://github.com/stitchtheplanet/StitchReg)
 - [Frequently Asked Questions](./questions.html)
+
 
 ## How It Works <a name="how"></a>
 
@@ -49,3 +51,4 @@ The parts below are in the linked arduino kit, but I'll find better options.
 
 ### Instructions <a name="instructions"></a>
 
+Coming soon!
