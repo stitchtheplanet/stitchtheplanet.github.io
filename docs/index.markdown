@@ -6,7 +6,7 @@ Greetings! I am a hacker, sewist, and megafan of the movie [Hackers](https://www
 
 ## Projects
 
-- [StitchReg](./stitchreg), a DIY stitch regulator for Juki TL machines
+- [StitchReg](./stitchreg) a DIY stitch regulator for Juki TL machines
 
 
 ## Sewing Machines
@@ -14,7 +14,7 @@ Greetings! I am a hacker, sewist, and megafan of the movie [Hackers](https://www
 - Singer Heavy Duty 4423
 - Juki TL-15
 - Juki TL-2200QVP Longarm
-- Info about the [Juki JC-001 Footpedal](./jc-001-footpedal.html)
+- Info about the [Juki JC-001 Footpedal](./juki/jc-001-footpedal.html)
 
 ## Quilts
 
