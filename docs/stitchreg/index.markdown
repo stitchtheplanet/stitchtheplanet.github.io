@@ -40,6 +40,7 @@ Currently this is just breadboarded with an Arduino Uno Rev 3. Once the design i
 The parts below are in the linked arduino kit, but I'll find better options.
 
 - PN2222A transistor (in the above arduino kit)
+- 1k ohm resistor (in the above arduino kit)
 - 10k ohm resistor (2) (in the above arduino kit)
 - 100k ohm resistor (in the above arduino kit)
 - Buzzer (in the above arduino kit)
